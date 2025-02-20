@@ -1,5 +1,6 @@
 # PYTHON_PROJECT_DATA_ANALYSIS
 ### 🐍 A portfolio of my Python projects showcasing data analysis techniques such as data cleaning, transformation, visualization, and insights extraction—utilizing libraries like Pandas, NumPy, Matplotlib, and Seaborn to uncover trends, optimize reporting, and enhance decision-making through data-driven approaches. 🚀📊
+## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🖼️ Text-to-Image Generator using Stable Diffusion
 
@@ -21,5 +22,5 @@ pip install requests pillow
 
 ## 🔚 Conclusion
 This project showcases how AI-powered image generation can be easily integrated into a Python application using the **Stable Diffusion API**. By automating the process of generating images from textual descriptions, this tool provides an accessible way to experiment with generative AI. Future improvements could include allowing users to specify image styles, resolutions, or batch processing for multiple prompts.
-
+## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
