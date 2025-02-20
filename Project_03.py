@@ -9,10 +9,6 @@ API_TOKEN = os.getenv("HUGGING_FACE_API_TOKEN")
 # Ensure the token is available
 if API_TOKEN is None:
     raise ValueError("API token is missing! Set the environment variable HUGGING_FACE_API_TOKEN.")
-
-# Hugging Face API URL for Stable Diffusion model
-API_URL = 
-
 # Headers for the API request
 headers = {
     "Authorization": f"Bearer {API_TOKEN}"
