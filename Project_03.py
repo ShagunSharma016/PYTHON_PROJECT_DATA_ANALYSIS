@@ -11,7 +11,7 @@ if API_TOKEN is None:
     raise ValueError("API token is missing! Set the environment variable HUGGING_FACE_API_TOKEN.")
 
 # Hugging Face API URL for Stable Diffusion model
-API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
+API_URL = 
 
 # Headers for the API request
 headers = {
